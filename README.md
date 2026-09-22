@@ -5,7 +5,7 @@ clone git repo
 ```
 pkg install git
 pkg update && pkg upgrade
-git clone git@github.com:bartekWBK/Librus.git
+git clone https://github.com/bartekWBK/Librus.git
 ```
 ```bash
 cd Librus
