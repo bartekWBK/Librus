@@ -14,6 +14,7 @@ clone git repo
 ```
 pkg install git
 git clone git@github.com:bartekWBK/Librus.git
+unzip app.zip -d /
 ```
 potem
 ```
