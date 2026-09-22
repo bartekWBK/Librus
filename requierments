@@ -1,0 +1,3 @@
+npm install express
+npm install librus-api
+npm install librus-api cors
