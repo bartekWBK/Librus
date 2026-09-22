@@ -15,9 +15,9 @@ npm install express
 npm install librus-api
 npm install librus-api cors
 ```
-unzip app
+pobierz
 ```
-unzip app.zip -d /
+https://drive.google.com/file/d/1Q7ueC5VTd4GoiryoXns_Enw8ZqB0HXV_/view?usp=sharing
 ```
 potem
 ```
