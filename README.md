@@ -1,19 +1,19 @@
-# how to run this tard
-### install termux on ur phone
-```bash
-mkdir Librus
-cd Librus
+## how to run this tard
+# install termux on ur phone
+
+clone git repo
+```
+pkg install git
 pkg update && pkg upgrade
+git clone git@github.com:bartekWBK/Librus.git
+```
+```bash
+cd Librus
 pkg install nodejs
 pkg install nodejs-lts
 npm install express
 npm install librus-api
 npm install librus-api cors
-```
-clone git repo
-```
-pkg install git
-git clone git@github.com:bartekWBK/Librus.git
 ```
 unzip app
 ```
